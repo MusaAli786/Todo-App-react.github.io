@@ -1,0 +1,36 @@
+h1{
+    font-weight: 650 !important;
+    font-size: 35px !important;
+    margin: 10px 0px 0px 410px;
+}
+.inputText{
+    width: 70%;
+    margin: 10px 0px 0px 190px;
+    outline: none;
+}
+.inputDate{
+    width: 60%;
+    margin: 10px 0px 0px 100px;
+}
+.items-container{
+ text-align: left;
+ margin: 25px 0px 0px 285px;   
+}
+.add-btn{
+ margin: 5px 95px 0px 0px;
+ min-width: 70px;   
+}
+.delete-btn1{
+ margin: 0px 0px 8px -115px;
+ min-width: 70px;  
+}
+.delete-btn2{
+ margin: 5px 0px 0px -115px;
+ min-width: 70px;  
+}
+.welcmMsg{
+    text-align: center;
+    margin: 10px 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
